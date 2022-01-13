@@ -1,0 +1,15 @@
+build/
+dev_x64/
+*.exe
+*export.hpp
+
+files/**
+!files/IO.txt
+!files/exports/
+files/exports/**
+!files/exports/IO.txt
+*.DS_Store
+*.nc
+*.astc
+*.jay
+*.peaks

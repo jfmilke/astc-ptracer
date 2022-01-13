@@ -1,0 +1,5 @@
+Source: astc-encoder
+Version: 2.0
+Homepage: https://github.com/ARM-software/astc-encoder
+Description: This is the official repository for the Arm(R) Adaptive Scalable Texture Compression (ASTC) Encoder, astcenc, a command-line tool for compressing and decompressing images using the ASTC texture compression standard.
+
